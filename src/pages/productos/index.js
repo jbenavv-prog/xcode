@@ -2,6 +2,8 @@ import { useState, useEffect } from "react";
 import Layout from "../layouts";
 import { AlertaExito } from "./components/alertas";
 
+// Este es un cambio desde el usuario del profesor
+
 export default function Productos() {
   const [productosEstado, ActualizarProductos] = useState(null);
   const [alerta, actualizarAlerta] = useState(null);
