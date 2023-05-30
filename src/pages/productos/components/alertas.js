@@ -36,8 +36,8 @@ export function AlertaExito() {
           aria-hidden="true"
           className="w-5 h-5"
           fill="currentColor"
-          viewBox="0 0 20 20"
-          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 40 40"
+          xmlns="https://www.eniun.com/wp-content/uploads/Git-y-Visual-Studio-Code-Github.png"
         >
           <path
             fillRule="evenodd"
@@ -62,8 +62,8 @@ export function AlertaFalla() {
           aria-hidden="true"
           className="w-5 h-5"
           fill="currentColor"
-          viewBox="0 0 20 20"
-          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 40 40"
+          xmlns="https://pngimg.com/d/github_PNG28.png"
         >
           <path
             fillRule="evenodd"
